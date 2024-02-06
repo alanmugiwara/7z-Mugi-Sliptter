@@ -1,7 +1,7 @@
 <p align="center">
  <img width="100px" src="https://i.ibb.co/qMLZYcp/kisspng-batch-file-computer-icons-computer-file-ms-dos-acronym-programming-acronym-apps-on-google-pl.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">7z-mugi-splitter Stats</h2>
- <p align="center">This is a little windows shell script using 7-zip comand linte to slipt files and/or folders in bath mode!</p>
+ <p align="center">This is a little windows shell script using 7-zip comand line to slipt files and/or folders in bath mode!</p>
 </p>
   <p align="center">
     <img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/alanmugiwara/7z-mugi-splitter">

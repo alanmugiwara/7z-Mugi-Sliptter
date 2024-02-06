@@ -23,8 +23,8 @@
 - `Funcionality 1`: Split files and folders in 1980MB files
 - `Funcionality 2`: Two versions (one of them only split, another split and make a higher compression level)
 - `Funcionality 3`: Easy to backup/share you splited files on telegram free (telegram free suports 2GB for each file)
-- `Funcionality 4`: Automation - only drop files and/or folders in .bat script and wait you PC make the hard work.     
-    <br />
+- `Funcionality 4`: Automation - only drop files and/or folders in .bat script and wait you PC make the hard work.  
+  <br />
 
 ## Contatos:
 
@@ -34,4 +34,3 @@
 <a href = "alanurfb@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/alansilvadacruz" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
- 

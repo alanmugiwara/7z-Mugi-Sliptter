@@ -4,8 +4,12 @@
  <p align="center">This is a little windows shell script using 7-zip comand line to slipt files and/or folders in bath mode!</p>
 </p>
   <p align="center">
-    <img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/alanmugiwara/7z-mugi-splitter">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alanmugiwara/7z-mugi-splitter?logoColor=%23FF0000%09&color=%23FF0000%09">
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alanmugiwara/7z-mugi-splitter">
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/alanmugiwara/7z-mugi-splitter">
+<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/alanmugiwara/7z-mugi-splitter/total">
+<img alt="GitHub Release" src="https://img.shields.io/github/v/release/alanmugiwara/7z-mugi-splitter">
+<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alanmugiwara/7z-mugi-splitter">
+<img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/alanmugiwara/7z-mugi-splitter">
     </a>
      </p>
   <p align="center">

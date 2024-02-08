@@ -41,7 +41,7 @@ for %%A in (%*) do (
     )
 )
 
-REM Exibir mensagem de conclusão
+REM Exibir mensagem de conclusão (teste commit via integração vs-code)
 echo.
 echo A.L.E.R.T.A:
 echo !conclusion_message!

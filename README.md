@@ -1,18 +1,21 @@
-<p align="center">
+[![made Language {generic badge}](https://img.shields.io/badge/Made%20with-Shell%20script-8A2BE2)](https://github.com/alanmugiwara)
+[![create date](https://badges.pufler.dev/created/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
+[![last update date](https://badges.pufler.dev/Updated/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
+[![Commits Badge](https://img.shields.io/github/commit-activity/m/alanmugiwara/7z-mugi-splitter.svg?color=8A2BE2)](https://github.com/alanmugiwara)
+
+[![contributors](https://img.shields.io/github/contributors/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
+[![issues counter](https://img.shields.io/github/issues/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
+[![repo size](https://img.shields.io/github/repo-size/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
+[![directory size](https://img.shields.io/github/directory-file-count/alanmugiwara/7z-mugi-splitter?color=8A2BE2)](https://github.com/alanmugiwara)
+
+[![last release](https://img.shields.io/github/v/release/alanmugiwara/romkeepilson2)](https://github.com/alanmugiwara)
+[![downloads counter](https://img.shields.io/github/downloads/alanmugiwara/romkeepilson/total)](https://github.com/alanmugiwara)
+
+<p align="left">
  <img width="100px" src="https://i.ibb.co/qMLZYcp/kisspng-batch-file-computer-icons-computer-file-ms-dos-acronym-programming-acronym-apps-on-google-pl.png" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">7z-mugi-splitter Stats</h2>
- <p align="center">This is a little windows shell script using 7-zip comand line to slipt files and/or folders in bath mode!</p>
-</p>
-  <p align="center">
-<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/alanmugiwara/7z-mugi-splitter">
-<img alt="GitHub issues" src="https://img.shields.io/github/issues/alanmugiwara/7z-mugi-splitter">
-<img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/alanmugiwara/7z-mugi-splitter/total">
-<img alt="GitHub Release" src="https://img.shields.io/github/v/release/alanmugiwara/7z-mugi-splitter">
-<img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/alanmugiwara/7z-mugi-splitter">
-<img alt="GitHub repo file or directory count" src="https://img.shields.io/github/directory-file-count/alanmugiwara/7z-mugi-splitter">
-    </a>
-     </p>
-  <p align="center">
+ <h2 align="left">7z-mugi-splitter Stats</h2>
+ <p align="left">This is a little windows shell script using 7-zip comand line to slipt files and/or folders in bath mode!</p>
+  <p align="left">
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
     <a href="/docs/readme_en.md">English</a>

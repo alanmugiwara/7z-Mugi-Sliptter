@@ -14,7 +14,7 @@
 <p align="left">
  <img width="100px" src="https://i.ibb.co/qMLZYcp/kisspng-batch-file-computer-icons-computer-file-ms-dos-acronym-programming-acronym-apps-on-google-pl.png" align="center" alt="GitHub Readme Stats" />
  <h2 align="left">7z-mugi-splitter Stats</h2>
- <p align="left">This is a little windows shell script using 7-zip comand line to slipt files and/or folders in bath mode!</p>
+ <p align="left">This is a little windows shell script using 7-zip comand line to slipt files and/or folders in batch mode!</p>
   <p align="left">
     <a href="/docs/readme_pt-BR.md">Português Brasileiro</a>
     ·
